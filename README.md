@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- ==================== HERO CAPSULE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:f72585&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:00F5D4&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
 
   <!-- ==================== ANIMATED MULTI-LINE TYPING BANNER ==================== -->
   <a href="https://github.com/Sejalsoni30">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=F72585&center=true&vCenter=true&random=false&width=680&lines=%F0%9F%9A%80+Full-Stack+Developer+(MERN+Stack);%F0%9F%8E%93+B.Tech+CSE+%40+Sardar+Patel+University+(2022-2026);%F0%9F%92%BB+Responsive+Web+Apps+%26+RESTful+APIs;%F0%9F%A7%A0+Exploring+AI+Integration+(Gemini%2C+Web+Speech)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=680&lines=%F0%9F%9A%80+Full-Stack+Developer+(MERN+Stack);%F0%9F%8E%93+B.Tech+CSE+%40+Sardar+Patel+University+(2022-2026);%F0%9F%92%BB+Responsive+Web+Apps+%26+RESTful+APIs;%F0%9F%A7%A0+Exploring+AI+Integration+(Gemini%2C+Web+Speech)" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -18,7 +18,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/%F0%9F%92%BB_Gokul_Tech_Solutions-Web_Dev_Intern-B5179E?style=for-the-badge&labelColor=10002B" alt="Gokul Tech Solutions" />
     </a>
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Full--Stack_Developer-MERN_Stack-F72585?style=for-the-badge&labelColor=10002B" alt="MERN Stack" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Full--Stack_Developer-MERN_Stack-00F5D4?style=for-the-badge&labelColor=10002B" alt="MERN Stack" />
   </p>
 
   <!-- ==================== INTERACTIVE SOCIAL & CONNECT BADGES ==================== -->
@@ -38,7 +38,7 @@
 
   <!-- ==================== PROFILE VISITOR COUNTER ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sejalsoni30&color=F72585&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Sejalsoni30&color=00F5D4&style=flat-square&label=%F0%9F%91%81%EF%B8%8F+PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -51,7 +51,7 @@
 
 <!-- ==================== SECTION 1: ABOUT ME ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -100,7 +100,7 @@
 
 <!-- ==================== SECTION 2: TECH STACK ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -142,7 +142,7 @@
 
 <!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -152,7 +152,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>💾 Smart AI Backup System</h3>
-        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20AI%20Integration-F72585?style=flat-square&labelColor=10002B" />
+        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20AI%20Integration-00F5D4?style=flat-square&labelColor=10002B" />
       </div>
       <br/>
       <p>🧠 <b>AI-Powered Storage Platform</b> with secure file storage, duplicate detection, and MongoDB Atlas cloud integration. Reduced duplicate file storage by 35%.</p>
@@ -194,7 +194,7 @@
 
 <!-- ==================== SECTION 4: CERTIFICATIONS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -213,7 +213,7 @@
 
 <!-- ==================== SECTION 5: STATS & ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -221,7 +221,7 @@
 <!-- Interactive Activity Graph -->
 <div align="center">
   <a href="https://github.com/Sejalsoni30">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sejalsoni30&theme=dracula&hide_border=true&area=true&color=F72585" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sejalsoni30&theme=tokyo-night&hide_border=true&area=true&color=00F5D4" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
@@ -233,24 +233,24 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Sejalsoni30">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sejalsoni30&theme=radical" alt="Profile Details" width="390" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sejalsoni30&theme=tokyonight" alt="Profile Details" width="390" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Sejalsoni30">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sejalsoni30&theme=radical" alt="Stats" width="390" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sejalsoni30&theme=tokyonight" alt="Stats" width="390" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/Sejalsoni30">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sejalsoni30&theme=radical" alt="Repos Per Language" width="390" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sejalsoni30&theme=tokyonight" alt="Repos Per Language" width="390" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Sejalsoni30">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sejalsoni30&theme=radical" alt="Most Commit Language" width="390" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sejalsoni30&theme=tokyonight" alt="Most Commit Language" width="390" />
         </a>
       </td>
     </tr>
@@ -261,13 +261,13 @@
 
 <!-- ==================== SECTION 6: INSPIRATION & CONNECT ==================== -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:F72585&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
   
   <br/><br/>
   
@@ -290,6 +290,6 @@
   <p><sub>⭐️ <b>Star my repositories if you find anything helpful or interesting!</b> ⭐️</sub></p>
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:f72585&height=130&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:00F5D4&height=130&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
