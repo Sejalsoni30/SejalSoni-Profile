@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
   <!-- ==================== HERO CAPSULE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
 
   <!-- ==================== ANIMATED MULTI-LINE TYPING BANNER ==================== -->
   <a href="https://github.com/Sejalsoni30">
@@ -51,7 +51,7 @@
 
 <!-- ==================== SECTION 1: ABOUT ME ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -100,7 +100,7 @@
 
 <!-- ==================== SECTION 2: TECH STACK ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -142,7 +142,7 @@
 
 <!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -194,7 +194,7 @@
 
 <!-- ==================== SECTION 4: CERTIFICATIONS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -213,7 +213,7 @@
 
 <!-- ==================== SECTION 5: STATS & ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -267,7 +267,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
   
   <br/><br/>
   
@@ -290,6 +290,6 @@
   <p><sub>⭐️ <b>Star my repositories if you find anything helpful or interesting!</b> ⭐️</sub></p>
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=130&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00BFFF,7928CA,FF0080,FFB800&height=130&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
