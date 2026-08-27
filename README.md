@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
   <!-- ==================== HERO CAPSULE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:00F5D4&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:080D1A,60:0052D4,100:00F5D4&height=270&section=header&text=SEJAL%20SONI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20@%20SPU%20Balaghat&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header" />
 
   <!-- ==================== ANIMATED MULTI-LINE TYPING BANNER ==================== -->
   <a href="https://github.com/Sejalsoni30">
@@ -13,12 +13,12 @@
   <!-- ==================== QUICK STATUS PILLS ==================== -->
   <p align="center">
     <a href="#">
-      <img src="https://img.shields.io/badge/%F0%9F%8E%93_SPU_Balaghat-B.Tech_CSE-7209B7?style=for-the-badge&labelColor=10002B" alt="SPU Balaghat" />
+      <img src="https://img.shields.io/badge/%F0%9F%8E%93_SPU_Balaghat-B.Tech_CSE-0052D4?style=for-the-badge&labelColor=080D1A" alt="SPU Balaghat" />
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/%F0%9F%92%BB_Gokul_Tech_Solutions-Web_Dev_Intern-B5179E?style=for-the-badge&labelColor=10002B" alt="Gokul Tech Solutions" />
+      <img src="https://img.shields.io/badge/%F0%9F%92%BB_Gokul_Tech_Solutions-Web_Dev_Intern-00B4D8?style=for-the-badge&labelColor=080D1A" alt="Gokul Tech Solutions" />
     </a>
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Full--Stack_Developer-MERN_Stack-00F5D4?style=for-the-badge&labelColor=10002B" alt="MERN Stack" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_Full--Stack_Developer-MERN_Stack-00F5D4?style=for-the-badge&labelColor=080D1A" alt="MERN Stack" />
   </p>
 
   <!-- ==================== INTERACTIVE SOCIAL & CONNECT BADGES ==================== -->
@@ -51,14 +51,14 @@
 
 <!-- ==================== SECTION 1: ABOUT ME ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%92%AB%20ABOUT%20THE%20DEVELOPER&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #3C096C;">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1E293B;">
   <tr>
-    <td width="55%" valign="top" style="padding: 15px; background-color: #10002B;">
+    <td width="55%" valign="top" style="padding: 15px; background-color: #080D1A;">
 
 ```json
 {
@@ -83,7 +83,7 @@
 ```
 
    </td>
-   <td width="45%" valign="top" style="padding: 15px; background-color: #240046;">
+   <td width="45%" valign="top" style="padding: 15px; background-color: #0B1120;">
 
 <h4 align="center">⚡ Highlights & Achievements</h4>
 
@@ -100,7 +100,7 @@
 
 <!-- ==================== SECTION 2: TECH STACK ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9B%A0%EF%B8%8F%20TECH%20ARSENAL%20%E2%80%A2%20ECOSYSTEM&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -142,7 +142,7 @@
 
 <!-- ==================== SECTION 3: FEATURED PROJECTS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%9A%80%20FEATURED%20PROJECTS%20%E2%80%A2%20LIVE%20DEPLOYMENTS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -152,7 +152,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>💾 Smart AI Backup System</h3>
-        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20AI%20Integration-00F5D4?style=flat-square&labelColor=10002B" />
+        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20AI%20Integration-00F5D4?style=flat-square&labelColor=080D1A" />
       </div>
       <br/>
       <p>🧠 <b>AI-Powered Storage Platform</b> with secure file storage, duplicate detection, and MongoDB Atlas cloud integration. Reduced duplicate file storage by 35%.</p>
@@ -161,7 +161,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🛒 ShopAgent AI</h3>
-        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20Smart%20Retail-7209B7?style=flat-square&labelColor=10002B" />
+        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20Smart%20Retail-0052D4?style=flat-square&labelColor=080D1A" />
       </div>
       <br/>
       <p>🎙️ <b>Smart Retail & POS System</b> enabling voice-to-bill generation ("AI Dukandaar") using Web Speech API and Gemini AI. Integrated OCR-based document parsing for automated invoice entry.</p>
@@ -172,7 +172,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎬 VideoAI</h3>
-        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20Cloud%20Video-B5179E?style=flat-square&labelColor=10002B" />
+        <img src="https://img.shields.io/badge/MERN%20Stack%20%7C%20Cloud%20Video-00B4D8?style=flat-square&labelColor=080D1A" />
       </div>
       <br/>
       <p>🎥 <b>Cloud Video Editor</b> featuring real-time filters, timeline management, and Google Drive integration for high-fidelity exports with a responsive frontend.</p>
@@ -181,7 +181,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h3>❓ Quiz-War</h3>
-        <img src="https://img.shields.io/badge/Frontend%20%7C%20Web%20App-4361EE?style=flat-square&labelColor=10002B" />
+        <img src="https://img.shields.io/badge/Frontend%20%7C%20Web%20App-4361EE?style=flat-square&labelColor=080D1A" />
       </div>
       <br/>
       <p>⏱️ <b>Interactive Quiz Platform</b> featuring a countdown timer, real-time score tracking, and dynamic question rendering with an engaging UI.</p>
@@ -194,7 +194,7 @@
 
 <!-- ==================== SECTION 4: CERTIFICATIONS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%8F%85%20VERIFIED%20CERTIFICATIONS%20%E2%80%A2%20CREDENTIALS&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -213,7 +213,7 @@
 
 <!-- ==================== SECTION 5: STATS & ANALYTICS ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%93%88%20GITHUB%20ANALYTICS%20%E2%80%A2%20ACTIVITY&fontSize=22&fontColor=ffffff&align=center" width="100%" />
 </div>
 
 <br/>
@@ -267,7 +267,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:7209B7,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:0052D4,100:00F5D4&height=40&text=%F0%9F%A4%9D%20LET%27S%20BUILD%20SOMETHING%20REVOLUTIONARY!&fontSize=22&fontColor=ffffff&align=center" width="100%" />
   
   <br/><br/>
   
@@ -290,6 +290,6 @@
   <p><sub>⭐️ <b>Star my repositories if you find anything helpful or interesting!</b> ⭐️</sub></p>
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:10002b,60:7209b7,100:00F5D4&height=130&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,30:080D1A,60:0052D4,100:00F5D4&height=130&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
